@@ -21,4 +21,4 @@ function convertToRoman(num) {
     return romanString;
 }
 
-console.log(convertToRoman(36));
+convertToRoman(36);
